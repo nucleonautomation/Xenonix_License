@@ -1,0 +1,29 @@
+# LICENSE
+
+[Browse libraries](../README.md) · [Repository home](../../README.md)
+
+Original-file SHA-256: `abd3ed80490d1d168f12f6ced5a558398640e6d375382c7b85d290689a222822`
+
+## License and notices
+
+```text
+Copyright 2017 The Native Object Protocols Authors
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
+## Where this notice appears
+
+- [torch 2.14.1](../Libraries/torch/2.14.1/README.md) — `torch-2.14.1/windows/torch-2.14.1.dist-info/licenses/third_party/tensorpipe/third_party/libnop/LICENSE`
+- [torch 2.14.1+cpu](../Libraries/torch/2.14.1%2Bcpu/README.md) — `torch-2.14.1+cpu/upstream/windows/torch-2.14.1+cpu.dist-info/licenses/third_party/tensorpipe/third_party/libnop/LICENSE`
+- [torch 2.14.1+cu130](../Libraries/torch/2.14.1%2Bcu130/README.md) — `torch-2.14.1+cu130/upstream/windows/torch-2.14.1+cu130.dist-info/licenses/third_party/tensorpipe/third_party/libnop/LICENSE`
