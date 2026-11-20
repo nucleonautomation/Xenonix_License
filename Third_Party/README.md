@@ -15,6 +15,8 @@ This reference covers 252 package releases across 192 package names, plus Python
 
 ## Libraries A–Z
 
+The [Aravis camera runtime](Libraries/aravis/README.md) is installed with Singularity.
+
 | Component | Documented versions | License summary |
 | --- | --- | --- |
 | [aiofiles](Libraries/aiofiles/README.md) | 25.1.0 | Apache-2.0 |
